@@ -1,4 +1,4 @@
-# Interactive-KPI-Management-Dashboard
+# Interactive KPI Management Dashboard
 
 ## Introduction
 In the dynamic landscape of business, an interactive dashboard for Key Performance Indicator (KPI) management is indispensable for companies seeking to thrive and adapt. Such dashboards provide visually intuitive representation of crucial metrics, allowing executives and decision-makers to swiftly grasp the pulse of their organization. <br>
